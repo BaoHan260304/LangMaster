@@ -1,4 +1,4 @@
-# lingua_master
+# lang_master
 
 A new Flutter project.
 
